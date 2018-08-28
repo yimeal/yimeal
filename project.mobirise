@@ -36,7 +36,17 @@
     "versionFirst": "4.7.10",
     "siteFonts": [],
     "uniqCompNum": 20,
-    "versionPublish": "4.7.10"
+    "versionPublish": "4.7.10",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://www.yimeal.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
