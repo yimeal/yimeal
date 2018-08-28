@@ -23,9 +23,9 @@
         "display7Size": 1.3,
         "display4Font": "Cormorant Upright",
         "display4Size": 1.2,
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
         "arrowColor": "#ffbc00"
       },
       "additionalSetColors": [
@@ -42,8 +42,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "益顿饭-让天下安心一顿饭",
+        "meta_descr": "益顿饭-让天下安心一顿饭",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
